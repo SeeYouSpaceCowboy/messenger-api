@@ -38,7 +38,7 @@ Open terminal and run the following lines of code to clone and run this project.
  This project should now be running locally on port `3005`.
 
 ### Installing the Front-end
-Messenger consists of a front-end and a back-end. (Currently the front-end does not exists. Once it does exists, you'll need to run the following instructions.)
+Messenger consists of a front-end and a back-end.
 
 For this project to run you have to have both projects installed and running locally at the same time.
 
